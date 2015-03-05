@@ -1,0 +1,5 @@
+.openerp .oe_form_sheet_width {
+  min-width: 650px;
+  max-width: 100% !important;
+  margin: 0 auto;
+}

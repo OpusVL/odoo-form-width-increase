@@ -21,7 +21,7 @@
 
 
 {
-    'name': 'Lot Traceability Extension',
+    'name': 'Odoo form width extender',
     'version': '0.1',
     'author': 'OpusVL',
     'website': 'http://opusvl.com/',
@@ -35,9 +35,10 @@
     ],
     'depends': [
         'base',
+        'web',
     ],
     'data': [
-        'form_width_override.css',
+        'form_width_override.xml',
     ],
     'demo': [
     ],
