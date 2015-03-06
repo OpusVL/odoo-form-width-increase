@@ -28,7 +28,7 @@
     'summary': 'Form width increase',
     'category': 'Stock',
     'description': """Increases Odoo's form width for the majority of forms by overriding Odoos base.css file (.openerp .oe_form_sheet_width)
-        to be a width of 'auto' instead of a fixed pixel width
+        to be a width of '95%' instead of a fixed pixel width
 
 """,
     'images': [
