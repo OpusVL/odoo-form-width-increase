@@ -3,3 +3,9 @@
   max-width: 95% !important;
   margin: 0 auto;
 }
+
+@media (min-width: 992px) {
+  .modal-lg {
+    width: 70% !important;
+  }
+}
