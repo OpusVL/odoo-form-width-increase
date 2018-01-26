@@ -7,7 +7,7 @@ a fixed pixel width
 
 # Copyright and License
 
-Copyright (C) 2015 OpusVL
+Copyright (C) 2018 OpusVL
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as

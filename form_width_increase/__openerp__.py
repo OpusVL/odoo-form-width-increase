@@ -2,7 +2,7 @@
 
 ##############################################################################
 #
-# Copyright (C) 2015 OpusVL (<http://opusvl.com/>)
+# Copyright (C) 2018 OpusVL (<http://opusvl.com/>)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as
@@ -26,8 +26,7 @@
     'author': 'OpusVL',
     'website': 'http://opusvl.com/',
     'summary': 'Form width increase',
-    'category': 'Stock',
-    'description': """Increases Odoo's form width for the majority of forms by overriding Odoos base.css file (.openerp .oe_form_sheet_width)
+    'description': """Increases Odoo's form width for the majority of forms by overriding Odoos base.css file (.odoo .oe_form_sheet_width)
         to be a width of '95%' instead of a fixed pixel width
 
 """,
