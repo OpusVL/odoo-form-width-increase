@@ -34,7 +34,7 @@
         'web',
     ],
     'data': [
-        'popup_form_width_override.xml',
+        'views/popup_form_width_override.xml',
     ],
     'demo': [
     ],
