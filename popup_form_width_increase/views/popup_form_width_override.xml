@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <template id="assets_backend" name="popup_form_width_increase css assets" inherit_id="web.assets_backend">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" href="/popup_form_width_increase/static/src/css/popup_form_width_override.css"/>
+            </xpath>
+        </template>
+    </data>
+</openerp>
